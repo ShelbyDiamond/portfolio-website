@@ -986,7 +986,7 @@
   content: "\f121";
 }
 .fa-html5:before {
-  content: "\f121";
+  content: "\f13b";
 }
 .fa-css3:before {
   content: "\f121";
@@ -994,6 +994,7 @@
 .fa-react:before {
   content: "\f41b";
 }
+
 .fa-js:before {
   content: "\f41b";
 }
@@ -1001,7 +1002,7 @@
   content: "\f41b";
 }
 .fa-laptop-code:before {
-  content: "\f41b";
+  content: "\f5fc";
 }
 .fa-js:before {
   content: "\f41b";
