@@ -994,6 +994,18 @@
 .fa-react:before {
   content: "\f41b";
 }
+.fa-js:before {
+  content: "\f41b";
+}
+.fa-java:before {
+  content: "\f41b";
+}
+.fa-laptop-code:before {
+  content: "\f41b";
+}
+.fa-js:before {
+  content: "\f41b";
+}
 .fa-mail-reply-all:before,
 .fa-reply-all:before {
   content: "\f122";
